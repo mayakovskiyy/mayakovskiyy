@@ -1,0 +1,3 @@
+- @mayakovskiyy is here
+- beginner devops 
+- contact me in my socials
