@@ -1,3 +1,3 @@
 - @mayakovskiyy is here
-- beginner devops 
+- programmer 
 - contact me in my socials
