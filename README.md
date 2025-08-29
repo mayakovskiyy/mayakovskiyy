@@ -1,3 +1,3 @@
-- @mayakovskiyy is here
+- @steelberg is here
 - programmer 
 - contact me in my socials
