@@ -1,3 +1,46 @@
-- @steelberg is here
-- programmer 
-- contact me in my socials
+## sth about me
+
+my name is steelberg (AKA mayakovskiyy). <br>
+i'm a minor<br>
+studying in the middle school.<br>
+i speak russian (native) and english (b1+ - b2). also i'm learning slovak language.<br>
+junior swift programmer. making my own ecosystem called **Rewritten**<br>
+
+**i'm not fine at talking with people, sorry.**
+
+follow me in my socials (such as twitter, newgrounds etc.)<br>
+
+if u're [t.r.a.s.h](https://www.acronymfinder.com/Transphobic%2c-Racist%2c-Ableist%2c-Sexist%2c-Homophobic-(TRASH).html) dni.<br>
+
+i'm planning my relocation to slovakia in 3-4 yrs.<br>
+
+## my hardware:
+
+pc:<br>
+cpu: intel core i5-11600k<br>
+gpu: rtx 3060 12 gb<br>
+ram: 32gb ddr4<br>
+rom: 1tb ssd<br>
+os: fedora + windows 10 (dualboot)<br>
+<br>
+laptop:<br>
+macbook air 13<br>
+cpu: m4 (10+10 cores)<br>
+ram: 16 gb<br>
+rom: 512 gb<br>
+os: macos tahoe (26.4)<br>
+
+## my stack
+
+things i've already learned (or learning rn): swift, swiftui <br>
+thing i'm planning to learn: vapor, swiftwasm<br>
+<br>
+something that i know but it's not on my main stack: c#, rust, python, html, css <br>
+i'm also good at graphic design (ui/ux, logos, banners etc.)
+
+## my hobbies
+
+edm music production, games (ut/dr, rust, msc/mwc, yansim and fh4 are my favs) <br>
+i'm a part of indie culture <br>
+<br>
+oh, you're still here? thx for reading this useless stuff lmaoo
