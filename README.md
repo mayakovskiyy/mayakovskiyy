@@ -6,7 +6,7 @@ studying in the middle school.<br>
 i speak russian (native) and english (b1+ - b2). also i'm learning slovak language.<br>
 junior swift programmer. making my own ecosystem called **Rewritten**<br>
 
-**i'm not fine at talking with people, sorry.**
+**i'm not good at talking with people, sorry.**
 
 follow me in my socials (such as twitter, newgrounds etc.)<br>
 
