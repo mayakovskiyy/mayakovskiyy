@@ -2,9 +2,10 @@
 
 my name is steelberg (AKA mayakovskiyy). <br>
 i'm a minor<br>
+he/any prns. bi cis guy. <br>
 studying in the middle school.<br>
 i speak russian (native) and english (b1+ - b2). also i'm learning slovak language.<br>
-junior swift programmer. making my own ecosystem called **Rewritten**<br>
+junior swift programmer<br>
 
 **i'm not good at talking with people, sorry.**
 
