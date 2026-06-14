@@ -22,7 +22,7 @@ cpu: intel core i5-11600k<br>
 gpu: rtx 3060 12 gb<br>
 ram: 32gb ddr4<br>
 rom: 1tb ssd<br>
-os: fedora + windows 10 (dualboot)<br>
+os: fedora<br>
 <br>
 laptop:<br>
 macbook air 13<br>
