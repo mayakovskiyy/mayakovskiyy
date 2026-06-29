@@ -4,7 +4,7 @@ my name is steelberg (AKA mayakovskiyy). <br>
 i'm a minor<br>
 he/any prns. bi cis guy. <br>
 studying in the middle school.<br>
-i speak russian (native) and english (b1+ - b2). also i'm learning slovak language.<br>
+i speak russian (native) and english (b2). also i'm learning slovak language.<br>
 junior swift programmer<br>
 
 **i'm not good at talking with people, sorry.**
@@ -32,11 +32,11 @@ rom: 512 gb<br>
 os: macos tahoe (26.4)<br>
 
 ## my stack
-
-things i've already learned (or learning rn): swift, swiftui <br>
-thing i'm planning to learn: vapor, swiftwasm<br>
+i'm a system-oriented dev. <br>
+things i've already learned (or learning rn): swift <br>
+things i'm planning to learn: zig<br>
 <br>
-something that i know but it's not on my main stack: c#, rust, python, html, css <br>
+something that i know but it's not on my main stack: c#, rust, c, bash, python, html, css <br>
 i'm also good at graphic design (ui/ux, logos, banners etc.)
 
 ## my hobbies
