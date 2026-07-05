@@ -4,7 +4,7 @@ my name is steelberg (AKA mayakovskiyy). <br>
 i'm a minor<br>
 he/any prns. bi cis guy. <br>
 studying in the middle school.<br>
-i speak russian (native) and english (b2). also i'm learning slovak language.<br>
+i speak russian (native) and english (b2). also i'm learning slovak.<br>
 junior swift programmer<br>
 
 **i'm not good at talking with people, sorry.**
@@ -29,7 +29,7 @@ macbook air 13<br>
 cpu: m4 (10+10 cores)<br>
 ram: 16 gb<br>
 rom: 512 gb<br>
-os: macos tahoe (26.4)<br>
+os: macos tahoe (26.5)<br>
 
 ## my stack
 i'm a system-oriented dev. <br>
@@ -42,6 +42,8 @@ i'm also good at graphic design (ui/ux, logos, banners etc.)
 ## my hobbies
 
 edm music production, games (ut/dr, rust, msc/mwc, yansim and fh4 are my favs) <br>
-i'm a part of indie culture <br>
 <br>
 oh, you're still here? thx for reading this useless stuff lmaoo
+
+<br>
+[twitter](https://x.com/law_mmk51) [telegram](https://t.me/mayak0vskiyy) [steam](https://steamcommunity.com/id/sipper295/)  
