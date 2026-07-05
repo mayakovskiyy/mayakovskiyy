@@ -44,6 +44,3 @@ i'm also good at graphic design (ui/ux, logos, banners etc.)
 edm music production, games (ut/dr, rust, msc/mwc, yansim and fh4 are my favs) <br>
 <br>
 oh, you're still here? thx for reading this useless stuff lmaoo
-
-<br>
-[twitter](https://x.com/law_mmk51) [telegram](https://t.me/mayak0vskiyy) [steam](https://steamcommunity.com/id/sipper295/)  
