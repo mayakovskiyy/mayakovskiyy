@@ -5,7 +5,6 @@ i'm a minor<br>
 he/any prns. bi cis guy. <br>
 studying in the middle school.<br>
 i speak russian (native) and english (b2). also i'm learning slovak.<br>
-junior swift programmer<br>
 
 **i'm not good at talking with people, sorry.**
 
@@ -33,7 +32,7 @@ os: macos tahoe (26.5)<br>
 
 ## my stack
 i'm a system-oriented dev. <br>
-things i've already learned (or learning rn): swift <br>
+things i've already learned (or learning rn): go | swift <br>
 things i'm planning to learn: zig<br>
 <br>
 something that i know but it's not on my main stack: c#, rust, c, bash, python, html, css <br>
