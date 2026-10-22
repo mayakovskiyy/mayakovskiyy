@@ -2,17 +2,17 @@
 
 my name is steelberg (AKA mayakovskiyy). <br>
 i'm a minor<br>
-he/any prns. bi cis guy. <br>
+he/any prns. gay. <br>
 studying in the middle school.<br>
 i speak russian (native) and english (b2). also i'm learning slovak.<br>
+platform engineering. <br>
+working on [Arken](https://bsky.app/profile/arken.fun)<br>
 
 **i'm not good at talking with people, sorry.**
 
-follow me in my socials (such as twitter, newgrounds etc.)<br>
+follow me in my socials (such as bluesky, newgrounds etc.)<br>
 
 if u're [t.r.a.s.h](https://www.acronymfinder.com/Transphobic%2c-Racist%2c-Ableist%2c-Sexist%2c-Homophobic-(TRASH).html) dni.<br>
-
-i'm planning my relocation to slovakia in 3-4 yrs.<br>
 
 ## my hardware:
 
@@ -31,15 +31,14 @@ rom: 512 gb<br>
 os: macos tahoe (26.5)<br>
 
 ## my stack
-i'm a system-oriented dev. <br>
-things i've already learned (or learning rn): go | swift <br>
-things i'm planning to learn: zig<br>
+current stack: go, at protocol etc. <br>
 <br>
-something that i know but it's not on my main stack: c#, rust, c, bash, python, html, css <br>
+something that i know but it's not on my main stack: c#, rust, c, bash, python, swift <br>
 i'm also good at graphic design (ui/ux, logos, banners etc.)
 
 ## my hobbies
 
 edm music production, games (ut/dr, rust, msc/mwc, yansim and fh4 are my favs) <br>
 <br>
-oh, you're still here? thx for reading this useless stuff lmaoo
+
+
