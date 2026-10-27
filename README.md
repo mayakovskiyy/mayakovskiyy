@@ -1,9 +1,8 @@
 ## sth about me
 
 my name is steelberg (AKA mayakovskiyy). <br>
-i'm a minor<br>
+minor<br>
 he/any prns. gay. <br>
-studying in the middle school.<br>
 i speak russian (native) and english (b2). also i'm learning slovak.<br>
 platform engineering. <br>
 working on [Arken](https://bsky.app/profile/arken.fun)<br>
