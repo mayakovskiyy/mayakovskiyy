@@ -1,6 +1,10 @@
+<p align="center">
+  <img src="maya.png" alt="maya_pic">
+</p>
+
 ## sth about me
 
-my name is steelberg (AKA mayakovskiyy). <br>
+my name is steelberg (AKA mayakovskiyy, maya). <br>
 minor<br>
 he/any prns. gay. <br>
 i speak russian (native) and english (b2). also i'm learning slovak.<br>
@@ -39,5 +43,3 @@ i'm also good at graphic design (ui/ux, logos, banners etc.)
 
 edm music production, games (ut/dr, rust, msc/mwc, yansim and fh4 are my favs) <br>
 <br>
-
-
